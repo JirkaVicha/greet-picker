@@ -8,7 +8,7 @@ const GreetPicker = () => {
   return (
     <Box>
       <Box p={4}>
-        <Heading>Greetings in many languages.</Heading>
+        <Heading>How to greet in many languages?</Heading>
       </Box>
       
       <Box p={2} bg='tomato' borderRadius={5} mb={8} maxW='300px'>
